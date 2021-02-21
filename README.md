@@ -11,4 +11,6 @@ python generate_predictions.py
 ```
 python generate_metrics.py
 ```
-Experimento inspirado em: https://github.com/jpedrocm
+
+Experimento inspirado no pipeline desenvolvido por https://github.com/jpedrocm/dynamic-selection-experiment
+Adição de Instance hardness e algoritmo do voto majorítário.
